@@ -1,0 +1,17 @@
+{
+  "name": "Intro_to_Game_Dev",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "http-server": "^0.11.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "http-server ./ -p 4500"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
